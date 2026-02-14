@@ -1,0 +1,4 @@
+ERP + TFR figure
+Channel: EEG 014
+Epochs L/R: 72 / 73
+Outputs: results/erp_tfr_figure.png, results/erp_tfr_report.txt
