@@ -1,4 +1,5 @@
-EEG Time–Frequency mini-pipeline
+EEG Time–Frequency mini-pipeline (MNE sample)
+Epochs used: 40
 Channel: EEG 001
 Freq range: 4.0-30.0 Hz
-Output: results\time_frequency_eeg.png
+Saved figure: results\time_frequency_eeg.png
